@@ -1,4 +1,4 @@
-# Curso de Introducción a R - Universidad Alberto Hurtado
+# Curso de Introducción a R - Sociología generación XXXX
 
 ## ¡Hola!
 
