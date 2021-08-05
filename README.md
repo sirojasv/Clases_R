@@ -38,11 +38,3 @@ Si todo resulta bien, cuando abras RStudio deberías ver algo así:
 3. **Tema oscuro**
 
 ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/rstudio_dark.png)
-
-### Un poco más sobre R y RStudio
-
-R es un lenguaje y un entorno para la computación estadística y la visualización de datos. Es un proyecto de software libre, que deriva de otro lenguaje llamado S y que fue creado por Robert Gentleman y Ross Ihaka.
-
-¡R ya tiene más de 25 años! Desde entonces se han desarrollado muchas extensiones a su código siendo utilizado para desarrollar una diversidad de tareas y análisis.
-
-RStudio es un entorno de desarrollo integrado. Permite que el trabajo con R sea más sencillo y fluido.
