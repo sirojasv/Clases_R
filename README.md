@@ -1,8 +1,6 @@
 # Curso de Introducción a R - Sociología generación XXXX
 
-## ¡Hola!
-
-Este repositorio contendrá los link a las clases y el código que revisaremos en estas. También encontrarás las instrucciones para instalar R y RStudio en tu computador personal.
+En este repositorio encontrarán la clase y el código de la sesión de introducción a R. También encontrarás las instrucciones para instalar R y Rstudio en su PC.
 
 ## Instalación de R y RStudio
 
@@ -11,17 +9,17 @@ Para instalar R y RStudio debes seguir los siguientes pasos:
 1. **Instala R** desde <https://cran.r-project.org>
 
    + Dependiendo de tu sistema operativo, haz click en alguno de los siguientes links:
-   
+
    ![](https://github.com/vcanalesg/curso-r-uahurtado/raw/main/images/r_cran.png)
 
    + Haz click en el link que dice **base**.
 
    + Ahora, haz click en el link de descarga que aparece justo arriba de la página. En el caso que hayas elegido Windows deberías ver algo así:
-   
+
    ![](https://github.com/vcanalesg/curso-r-uahurtado/raw/main/images/r_403_windows.png)
 
    + Después de descargado el archivo, instálalo como cualquier otro programa.
-   
+
 
 
 2. **Vayamos ahora por RStudio**. Debes ir a <http://www.rstudio.com/download>
@@ -136,5 +134,3 @@ Para conocer como insertar bibliografía les recomiendo visitar los siguientes l
 
 - [Código clases](https://www.dropbox.com/s/9ud7u381cmtvhbq/codigo_en_vivo8.R?dl=0)
 - [Presentación](https://docs.google.com/presentation/d/1rInJR4fiEVNTzDq1_IfhDKzSz_8p6kYms5TQlRKIdiA/edit?usp=sharing)
-
-
