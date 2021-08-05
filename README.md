@@ -4,9 +4,11 @@ En este repositorio encontrarán las instrucciones para instalar R y Rstudio. Po
 
 ## Instalación de R y RStudio
 
-Para instalar R y RStudio debes seguir los siguientes pasos:
+Deberán seguir estos pasos:
 
-1. **Instalar R** desde <https://cran.r-project.org>
+### 1. **Instalar R**
+
+  - Ingresen a la página web <https://cran.r-project.org>
 
   - Dependiendo del sistema operativo que utilices, deberás seleccionar una de las siguientes opciones
 
@@ -18,12 +20,11 @@ Para instalar R y RStudio debes seguir los siguientes pasos:
 
    ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/r_4-1_windows.png)
 
-   - Después de descargado el archivo, instálalo como cualquier otro programa.
+   - Una vez descargado el archivo, instálalo como cualquier otro programa.
 
+### 2. **Instalar RStudio**
 
-
-2. **Instalar RStudio**. Debes ir a <http://www.rstudio.com/download>
-
+  - Ingresa a http://www.rstudio.com/download>
   - Haz click en la versión gratuita de RStudio Desktop.
 
   - Luego, haz click en el botón de descarga que aparece en la parte superior de la página (te sugerirá la versión a instalar de acuerdo a tu sistema operativo).
@@ -35,7 +36,7 @@ Cuando inicies RStudio deberías ver algo así:
 ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/rstudio_default.png)
 
 
-3. **Tema oscuro**
+### 3. **Extra: Tema oscuro**
 
   - En caso de que lo desees, puedes utilizar un tema oscuro ingresando a la pestaña *Tools* → *Global Options* → *Apperance*. Luego en el editor de temas, escoge uno de tu preferencia (v.g. *Monokai*)
 
