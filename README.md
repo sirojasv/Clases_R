@@ -1,14 +1,14 @@
-# Curso de Introducción a R - Sociología generación XXXX
+# Clase Introducción a R - Sociología UC 2018
 
-En este repositorio encontrarán la clase y el código de la sesión de introducción a R. También encontrarás las instrucciones para instalar R y Rstudio en su PC.
+En este repositorio encontrarán las instrucciones para instalar R y Rstudio. Posteriormente se subirá la clase y su respectivo código.
 
 ## Instalación de R y RStudio
 
 Para instalar R y RStudio debes seguir los siguientes pasos:
 
-1. **Instala R** desde <https://cran.r-project.org>
+1. **Instalar R** desde <https://cran.r-project.org>
 
-   + Dependiendo de tu sistema operativo, haz click en alguno de los siguientes links:
+   + Dependiendo del sistema operativo que utilices, deberás seleccionar una de las siguientes opciones
 
    ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/r_cran.png)
 
@@ -22,7 +22,7 @@ Para instalar R y RStudio debes seguir los siguientes pasos:
 
 
 
-2. **Vayamos ahora por RStudio**. Debes ir a <http://www.rstudio.com/download>
+2. **Instalar RStudio**. Debes ir a <http://www.rstudio.com/download>
 
    + Haz click en la versión gratuita de RStudio Desktop.
 
@@ -30,11 +30,13 @@ Para instalar R y RStudio debes seguir los siguientes pasos:
 
    + Luego, abre el archivo descargado y sigue las instrucciones para su instalación.
 
-Si todo resulta bien, cuando abras RStudio deberías ver algo así:
+Cuando inicies RStudio deberías ver algo así:
 
 ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/rstudio_default.png)
 
 
 3. **Tema oscuro**
+
+    + En caso de que lo desees, puedes utilizar un tema oscuro ingresando a la pestaña *Tools* → *Global Options* → *Apperance*. Luego en el editor de temas, escoge uno de tu preferencia (v.g. *Monokai*)
 
 ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/rstudio_dark.png)
