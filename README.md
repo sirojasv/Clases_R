@@ -10,7 +10,7 @@ Para instalar R y RStudio debes seguir los siguientes pasos:
 
    + Dependiendo de tu sistema operativo, haz click en alguno de los siguientes links:
 
-   ![](https://github.com/vcanalesg/curso-r-uahurtado/raw/main/images/r_cran.png)
+   ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/r_cran.png)
 
    + Haz click en el link que dice **base**.
 
@@ -32,7 +32,12 @@ Para instalar R y RStudio debes seguir los siguientes pasos:
 
 Si todo resulta bien, cuando abras RStudio deberías ver algo así:
 
-![](https://github.com/vcanalesg/curso-r-uahurtado/raw/main/images/rstudio.png)
+![](https://github.com/sirojas/Clases_ISUC/blob/main/images/rstudio_default.png)
+
+
+3. **Tema oscuro**
+
+![](https://github.com/sirojas/Clases_ISUC/blob/main/images/rstudio_dark.png)
 
 ### Un poco más sobre R y RStudio
 
