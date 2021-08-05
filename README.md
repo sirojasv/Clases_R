@@ -16,7 +16,7 @@ Para instalar R y RStudio debes seguir los siguientes pasos:
 
    + Ahora, haz click en el link de descarga que aparece justo arriba de la página. En el caso que hayas elegido Windows deberías ver algo así:
 
-   ![](https://github.com/vcanalesg/curso-r-uahurtado/raw/main/images/r_403_windows.png)
+   ![](C:\Users\siroj\Documents\GitHub\Clases_ISUC\images.png)
 
    + Después de descargado el archivo, instálalo como cualquier otro programa.
 
@@ -83,54 +83,3 @@ install.packages("survey")
 
 - [Código clases](https://www.dropbox.com/s/aadn8bxg52k7o3t/codigo_en_vivo1.R?dl=0)
 - [Presentación](https://docs.google.com/presentation/d/1DjiBGWrG97MHoUhYIrrLye1mkZ7ywTv4hxJHSs78Dts/edit?usp=sharing)
-
-**Sesión 2: Explorar y transformar datos [1] (7 de enero)**
-
-- [Código clases](https://www.dropbox.com/s/99fgge25z26wcor/codigo_en_vivo2.R?dl=0)
-- [Presentación](https://docs.google.com/presentation/d/1GJte1ydCbeRgZXKQZc4enDiFANXdPDIcZKHNOKINNsM/edit?usp=sharing)
-
-**Sesión 3: Explorar y transformar datos [2] (12 de enero)**
-
-- [Código clases](https://www.dropbox.com/s/3une6lc86umfdyq/codigo_en_vivo3.R?dl=0)
-- [Presentación](https://docs.google.com/presentation/d/1Q5vGumuRNWQmI1chkh1-hy8tCaE2HXoMDP-tOCLFAXE/edit?usp=sharing)
-
-**Sesión 4: Explorar y transformar datos [3] (14 de enero)**
-
-- [Código clases](https://www.dropbox.com/s/vzqsoj6s15jkay5/codigo_en_vivo4.R?dl=0)
-- [Presentación](https://docs.google.com/presentation/d/1RbIUnSmXZ337W1eXDGfLuihxw_ITBuW12EJQMX4Tgx8/edit?usp=sharing)
-- Descarga los datos de esta sesión [aquí](https://www.dropbox.com/s/b8jtec5q0dkfsk5/datos_sesion4.xlsx?dl=0)
-
-**Sesión 5: Visualización de datos con `ggplot2` (19 de enero)**
-
-- [Código clases](https://www.dropbox.com/s/b8v84yc2zkbktkn/codigo_en_vivo5.R?dl=0)
-- [Presentación](https://docs.google.com/presentation/d/1Ojp2tpzjY_GZLkuftEnEae0soPSzfGMMNZmp_vd328c/edit?usp=sharing)
-- [Tarea](https://www.dropbox.com/s/5prwzsbczle8znb/practica-intro-R.html?dl=0). Te recomiendo que descargues el archivo y luego lo abras para que no tengas problemas en visualizar los link del archivo.
-
-**Sesión 6: Reproducibilidad con R Markdown (21 de enero)**
-
-- [Paquetes a instalar](https://www.dropbox.com/s/phcpv06154q2w1b/codigo_en_vivo6.R?dl=0)  
-- [Ejemplo documento word](https://www.dropbox.com/s/ljvplhftw07tiwk/documento_word.Rmd?dl=0)  
-- [Ejemplo documento pdf](https://www.dropbox.com/s/o9acki55jux9ptp/documento_pdf.Rmd?dl=0)  
-- [Presentación](https://docs.google.com/presentation/d/1HVZar20lPdyUyYOYiKDOmu2HhhGb_fTtUkhGeg_M1MM/edit?usp=sharing)  
-- [Resultado word](https://www.dropbox.com/s/e1ftteuj52q6hrt/documento_word.docx?dl=0)  
-- [Resultado pdf](https://www.dropbox.com/s/yasgzqewxuyg15n/documento_pdf.pdf?dl=0)  
-
-Para descargar un diccionario en español en R Studio debes ir a:
-*Tools* -> *Global Options* -> *Spelling*. Ahí debes seleccionar como idioma principal Español. Estas mismas instrucciones las puedes encontrar en este [link](https://support.rstudio.com/hc/en-us/articles/200551916-Spelling-Dictionaries).  
-
-Para conocer como insertar bibliografía les recomiendo visitar los siguientes links:
-
-- [Writing your thesis with R Markdown: Text, citations and equations](https://rosannavanhespen.nl/rmarkdown/writing-your-thesis-with-r-markdown-2-text-citations-and-equations/)  
-- [Bibliographies and Citations](https://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html)  
-
-[Aquí](https://vimeo.com/110804387) está el video donde el autor de `knitr` muestra como crear una plantilla de Word para las salidas que se produzcan desde R Markdown. Lamentablemente el video es de hace 6 años (utiliza Office 2013 y Windows 7). En este [link](https://bookdown.org/yihui/rmarkdown-cookbook/word-template.html) también encontrarán más información para generar plantillas de Word.
-
-**Sesión 7: Estimaciones a partir de encuestas con muestreo complejo [1] (26 de enero)**
-
-- [Código clases](https://www.dropbox.com/s/mrh9h5xmflj2tpy/codigo_en_vivo7.R?dl=0)
-- [Presentación](https://docs.google.com/presentation/d/1E4lYjH7EeTgdtrS5Rd11oUPoy5YP_nE9VLMPlm_zW94/edit?usp=sharing)
-
-**Sesión 8: Estimaciones a partir de encuestas con muestreo complejo [2] (28 de enero)**
-
-- [Código clases](https://www.dropbox.com/s/9ud7u381cmtvhbq/codigo_en_vivo8.R?dl=0)
-- [Presentación](https://docs.google.com/presentation/d/1rInJR4fiEVNTzDq1_IfhDKzSz_8p6kYms5TQlRKIdiA/edit?usp=sharing)
