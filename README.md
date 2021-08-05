@@ -16,7 +16,7 @@ Para instalar R y RStudio debes seguir los siguientes pasos:
 
    + Ahora, haz click en el link de descarga que aparece justo arriba de la página. En el caso que hayas elegido Windows deberías ver algo así:
 
-   ![](C:\Users\siroj\Documents\GitHub\Clases_ISUC\images.png)
+   ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/r_4-1_windows.png)
 
    + Después de descargado el archivo, instálalo como cualquier otro programa.
 
