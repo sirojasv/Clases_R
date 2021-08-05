@@ -1,4 +1,4 @@
-# Clase Introducción a R - Sociología UC Gen. 2018
+# Tutorial instalación de R - Sociología UC Gen. 2018
 
 En este repositorio encontrarán las instrucciones para instalar R y Rstudio. Posteriormente se subirá la clase y su respectivo código.
 
@@ -36,7 +36,7 @@ Cuando inicies RStudio deberías ver algo así:
 ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/rstudio_default.png)
 
 
-### 3. **Extra: Tema oscuro**
+### 3. **Extra: tema oscuro**
 
   - En caso de que lo desees, puedes utilizar un tema oscuro ingresando a la pestaña *Tools* → *Global Options* → *Apperance*. Luego en el editor de temas, escoge uno de tu preferencia (v.g. *Monokai*)
 
