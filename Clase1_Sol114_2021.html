@@ -1,0 +1,299 @@
+<!DOCTYPE html>
+<html lang="" xml:lang="">
+  <head>
+    <title>Análisis de Datos II (Sol114) - 2021</title>
+    <meta charset="utf-8" />
+    <meta name="author" content="Daniella Leal Valenzuela - Sebastián Rojas Vergara" />
+    <script src="libs/header-attrs-2.9/header-attrs.js"></script>
+    <link rel="stylesheet" href="xaringan-themer.css" type="text/css" />
+    <link rel="stylesheet" href="estilos.css" type="text/css" />
+  </head>
+  <body>
+    <textarea id="source">
+
+
+class: inverse, left, bottom
+background-image: url(media/logo_puc2.png)
+background-position: 95% 7%
+background-size: 20%
+
+## Análisis de Datos II (Sol114) - 2021
+----------------
+### Clase 1. Muestra y Población
+#### Instituto de Sociología UC
+#### Daniella Leal Valenzuela - Sebastián Rojas Vergara
+#### 16 agosto, 2021
+
+
+
+
+
+---
+
+## Introducción
+
+La etapa de análisis estadístico involucra el aspecto descriptivo e inferencial. Este curso se enfocará en este último.
+
+
+&lt;img src="media/fig1_clase1.png" width="70%" style="display: block; margin: auto;" /&gt;
+
+
+
+---
+
+## Tipos de análisis estadísticos
+
+&gt; **Estadística:** Conjunto de procedimientos matemáticos realizados para analizar y resumir información obtenida sistemáticamente
+
+.pull-left[
+#### Estadística descriptiva
+
+- Muestra → Muestra
+
+&gt; **Estadística descriptiva:** Contabiliza tanto la frecuencia de ocurrencia de cada valor en una muestra,
+como la distribución y dispersión de los valores
+
+.pull-left[
+#### Univariada
+- Frecuencias
+- Histogramas
+- Descriptivos
+- Gráficos
+]
+
+.pull-right[
+#### Bivariada
+- Tablas de contingencia
+- Correlaciones
+]
+]
+
+
+
+
+.pull-right[
+#### Estadística inferencial
+
+- Muestra → Población
+
+
+&gt; **Estadística inferencial:** &lt;font color= "#B70244"&gt; Estima los parámetros poblacionales a partir de los estadísticos muestrales.
+Infiere a partir de una muestra lo que ocurre probablemente en la población objetivo. &lt;/font&gt; 
+
+
+
+
+.pull-left[
+#### Univariada
+- Estimaciones de parámetros
+- Intervalos de confianza
+]
+
+.pull-right[
+#### Multivariada
+- Test de hipótesis
+- Regresiones (con significancia estadística)
+]
+
+]
+
+---
+
+## Muestra y Población: Conflicto Analítico
+
+&lt;img src="media/fig2_clase1.png" width="80%" style="display: block; margin: auto;" /&gt;
+
+---
+## Brecha entre muestra y población I
+
+- Suponga una población de `\(N\)` elementos.
+- ¿Qué sucedería si la población es infinita, pero todos sus elementos son idénticos?
+
+&lt;img src="media/fig3_clase1.png" width="70%" style="display: block; margin: auto;" /&gt;
+
+
+---
+## Brecha entre muestra y población II
+
+- Suponga una población de `\(N\)` elementos.
+- ¿Y si los elementos fueran diferentes entre sí?
+
+&lt;img src="media/fig4_clase1.png" width="70%" style="display: block; margin: auto;" /&gt;
+
+---
+## Brecha entre muestra y población III
+
+Los ejemplos vistos anteriormente ilustran la brecha entre la muestra y la población:
+
+1. Imposibilidad de llegar a todos los elementos de la población.
+
+2. Los elementos de estudio difieren entre sí.
+
+Considere que existen limitantes económicas y logísticas. Si el diseño del estudio permite dar cuenta de la diversidad de los elementos, ¿sería necesario llegar de todas formas a la población completa?
+
+---
+## Etapas relevantes en el nexo muestra - población
+
+- El proceso por el cual nos aproximamos a la población no está libre de problemas. En concreto, el trabajar con muestras implica evaluar los siguientes aspectos:
+
+&lt;img src="media/fig5_clase1.png" width="70%" style="display: block; margin: auto;" /&gt;
+
+---
+## ¿Cómo aproximarse a la población?
+
+- La muestra es una forma de aproximarse a la población.
+
+- La población nunca se puede conocer por completo.
+
+- Para que la muestra sea lo más cercana a la población debe:
+  
+  a. Ser &lt;font color= "#B70244"&gt;&lt;b&gt;representativa&lt;/b&gt;&lt;/font&gt; de la población sobre la cual queremos hablar (inferir).
+  
+  b. Tener asociado un &lt;font color= "#B70244"&gt;&lt;b&gt;grado de error conocido&lt;/b&gt;&lt;/font&gt; o dimensionado, nunca eliminado.
+  
+La **Teoría de la Probabilidad** nos ayudará a conectar la muestra con la población. Por eso se dice que es 
+el vehículo de la estadística.
+
+---
+class: inverse, left, bottom
+background-image: url(media/logo_puc2.png)
+background-position: 95% 7%
+background-size: 20%
+
+# &lt;center&gt;¡Gracias!&lt;/center&gt;
+
+
+## Análisis de Datos II (Sol114) - 2021
+----------------
+### Clase 1. Muestra y Población
+#### Instituto de Sociología UC
+#### Daniella Leal Valenzuela - Sebastián Rojas Vergara
+#### 16 agosto, 2021
+
+    </textarea>
+<style data-target="print-only">@media screen {.remark-slide-container{display:block;}.remark-slide-scaler{box-shadow:none;}}</style>
+<script src="https://remarkjs.com/downloads/remark-latest.min.js"></script>
+<script>var slideshow = remark.create({
+"highlightStyle": "github",
+"highlightLines": true,
+"countIncrementalSlides": false,
+"ratio": "16:9",
+"fig_caption": true,
+"includes": null,
+"after_body": "insert-logo.html"
+});
+if (window.HTMLWidgets) slideshow.on('afterShowSlide', function (slide) {
+  window.dispatchEvent(new Event('resize'));
+});
+(function(d) {
+  var s = d.createElement("style"), r = d.querySelector(".remark-slide-scaler");
+  if (!r) return;
+  s.type = "text/css"; s.innerHTML = "@page {size: " + r.style.width + " " + r.style.height +"; }";
+  d.head.appendChild(s);
+})(document);
+
+(function(d) {
+  var el = d.getElementsByClassName("remark-slides-area");
+  if (!el) return;
+  var slide, slides = slideshow.getSlides(), els = el[0].children;
+  for (var i = 1; i < slides.length; i++) {
+    slide = slides[i];
+    if (slide.properties.continued === "true" || slide.properties.count === "false") {
+      els[i - 1].className += ' has-continuation';
+    }
+  }
+  var s = d.createElement("style");
+  s.type = "text/css"; s.innerHTML = "@media print { .has-continuation { display: none; } }";
+  d.head.appendChild(s);
+})(document);
+// delete the temporary CSS (for displaying all slides initially) when the user
+// starts to view slides
+(function() {
+  var deleted = false;
+  slideshow.on('beforeShowSlide', function(slide) {
+    if (deleted) return;
+    var sheets = document.styleSheets, node;
+    for (var i = 0; i < sheets.length; i++) {
+      node = sheets[i].ownerNode;
+      if (node.dataset["target"] !== "print-only") continue;
+      node.parentNode.removeChild(node);
+    }
+    deleted = true;
+  });
+})();
+(function() {
+  "use strict"
+  // Replace <script> tags in slides area to make them executable
+  var scripts = document.querySelectorAll(
+    '.remark-slides-area .remark-slide-container script'
+  );
+  if (!scripts.length) return;
+  for (var i = 0; i < scripts.length; i++) {
+    var s = document.createElement('script');
+    var code = document.createTextNode(scripts[i].textContent);
+    s.appendChild(code);
+    var scriptAttrs = scripts[i].attributes;
+    for (var j = 0; j < scriptAttrs.length; j++) {
+      s.setAttribute(scriptAttrs[j].name, scriptAttrs[j].value);
+    }
+    scripts[i].parentElement.replaceChild(s, scripts[i]);
+  }
+})();
+(function() {
+  var links = document.getElementsByTagName('a');
+  for (var i = 0; i < links.length; i++) {
+    if (/^(https?:)?\/\//.test(links[i].getAttribute('href'))) {
+      links[i].target = '_blank';
+    }
+  }
+})();
+// adds .remark-code-has-line-highlighted class to <pre> parent elements
+// of code chunks containing highlighted lines with class .remark-code-line-highlighted
+(function(d) {
+  const hlines = d.querySelectorAll('.remark-code-line-highlighted');
+  const preParents = [];
+  const findPreParent = function(line, p = 0) {
+    if (p > 1) return null; // traverse up no further than grandparent
+    const el = line.parentElement;
+    return el.tagName === "PRE" ? el : findPreParent(el, ++p);
+  };
+
+  for (let line of hlines) {
+    let pre = findPreParent(line);
+    if (pre && !preParents.includes(pre)) preParents.push(pre);
+  }
+  preParents.forEach(p => p.classList.add("remark-code-has-line-highlighted"));
+})(document);</script>
+
+<script>
+slideshow._releaseMath = function(el) {
+  var i, text, code, codes = el.getElementsByTagName('code');
+  for (i = 0; i < codes.length;) {
+    code = codes[i];
+    if (code.parentNode.tagName !== 'PRE' && code.childElementCount === 0) {
+      text = code.textContent;
+      if (/^\\\((.|\s)+\\\)$/.test(text) || /^\\\[(.|\s)+\\\]$/.test(text) ||
+          /^\$\$(.|\s)+\$\$$/.test(text) ||
+          /^\\begin\{([^}]+)\}(.|\s)+\\end\{[^}]+\}$/.test(text)) {
+        code.outerHTML = code.innerHTML;  // remove <code></code>
+        continue;
+      }
+    }
+    i++;
+  }
+};
+slideshow._releaseMath(document);
+</script>
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+(function () {
+  var script = document.createElement('script');
+  script.type = 'text/javascript';
+  script.src  = 'https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML';
+  if (location.protocol !== 'file:' && /^https?:/.test(script.src))
+    script.src  = script.src.replace(/^https?:/, '');
+  document.getElementsByTagName('head')[0].appendChild(script);
+})();
+</script>
+  </body>
+</html>
