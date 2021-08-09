@@ -24,7 +24,7 @@ Deberán seguir estos pasos:
 
 ### 2. **Instalar RStudio**
 
-  - Ingresa a http://www.rstudio.com/download>
+  - Ingresa a http://www.rstudio.com/download
   - Haz click en la versión gratuita de RStudio Desktop.
 
   - Luego, haz click en el botón de descarga que aparece en la parte superior de la página (te sugerirá la versión a instalar de acuerdo a tu sistema operativo).
