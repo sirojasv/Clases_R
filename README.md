@@ -1,6 +1,6 @@
 # Tutorial instalación de R
 
-En este repositorio encontrarán las instrucciones para instalar R y Rstudio.
+En este repositorio encontrarán las instrucciones para instalar R y RStudio.
 
 ## Instalación de R y RStudio
 
