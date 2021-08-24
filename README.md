@@ -1,6 +1,6 @@
-# Tutorial instalación de R - Sociología UC Gen. 2018
+# Tutorial instalación de R
 
-En este repositorio encontrarán las instrucciones para instalar R y Rstudio. Posteriormente se subirá la clase y su respectivo código.
+En este repositorio encontrarán las instrucciones para instalar R y Rstudio.
 
 ## Instalación de R y RStudio
 
