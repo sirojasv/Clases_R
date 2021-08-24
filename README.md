@@ -1,4 +1,4 @@
-# Tutorial instalación de R
+# Tutorial de instalación de R
 
 En este repositorio encontrarán las instrucciones para instalar R y RStudio.
 
@@ -10,7 +10,7 @@ Deberán seguir estos pasos:
 
   - Ingresen a la página web <https://cran.r-project.org>
 
-  - Dependiendo del sistema operativo que utilices, deberás seleccionar una de las siguientes opciones
+  - Dependiendo del sistema operativo que utilicen, deberán seleccionar una de las siguientes opciones
 
    ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/r_cran.png)
 
@@ -25,13 +25,14 @@ Deberán seguir estos pasos:
 ### 2. **Instalar RStudio**
 
   - Ingresa a http://www.rstudio.com/download
+  
   - Haz click en la versión gratuita de RStudio Desktop.
 
   - Luego, haz click en el botón de descarga que aparece en la parte superior de la página (te sugerirá la versión a instalar de acuerdo a tu sistema operativo).
 
-  - Luego, abre el archivo descargado y sigue las instrucciones para su instalación.
+  - Posteriormente, abre el archivo descargado y sigue las instrucciones para su instalación.
 
-Cuando inicies RStudio deberías ver algo así:
+Cuando inicies RStudio deberías visualizar algo así:
 
 ![](https://github.com/sirojas/Clases_ISUC/blob/main/images/rstudio_default.png)
 
